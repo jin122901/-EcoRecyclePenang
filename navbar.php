@@ -13,10 +13,11 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
                             <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                            <li class="nav-item"><a class="nav-link" href="resume.html">Rewards</a></li>
+                            <li class="nav-item"><a class="nav-link" href="recycle.php">Recycle</a></li>
                             <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
-                            <li class="nav-item"><a class="nav-link" href="login.php">Contact</a></li>
-                            <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
+							<li class="nav-item"><a class="nav-link" href="reward.php">Rewards</a></li>
+                            <li class="nav-item"><a class="nav-link" href="loginPage.php">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="loginPage.php">Login</a></li>
                         </ul>
                     </div>
                 </div>
