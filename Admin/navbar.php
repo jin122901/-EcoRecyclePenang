@@ -14,7 +14,7 @@
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
                             <li class="nav-item"><a class="nav-link" href="index.php">Dashboard</a></li>
                             <li class="nav-item"><a class="nav-link" href="user.php">User</a></li>
-                            <!-- <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li> -->
+                            <li class="nav-item"><a class="nav-link" href="recyclePoint.php">Recycle Point</a></li>
 							<li class="nav-item"><a class="nav-link" href="reward.php">Rewards</a></li>
                             <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                             <!-- <li class="nav-item"><a class="nav-link" href="loginPage.php">Login</a></li> -->
